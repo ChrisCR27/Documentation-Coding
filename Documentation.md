@@ -1,5 +1,5 @@
  # Chicken Alfredo
- ![Pasta1](https://github.com/ChrisCR27/Documentation-Coding/blob/b9bdf433e4c2150eb6ffb64956db5ca14df62c1a/pasta1.jpg)
+ <img src="https://github.com/ChrisCR27/Documentation-Coding/blob/b9bdf433e4c2150eb6ffb64956db5ca14df62c1a/pasta1.jpg" width="600" height="400">
  
  ## Description
  A yummy Italian dish is Chicken Alfredo. It is my one of my favorite foods, and it can be eaten anytime. This Chicken Alfredo recipe has three major ingredients, which are chicken breast, bowtie pasta, and Alfredo Sauce. Other ingredients include various seasonings. I invite you to challenge your talent and tastebuds by trying it out!
@@ -29,7 +29,8 @@
 
 ## Step-by-Step Directions:
 1. ***Chicken***
-![Chicken Breast](https://github.com/ChrisCR27/Documentation-Coding/blob/b9bdf433e4c2150eb6ffb64956db5ca14df62c1a/Chicken%20Breast.jpg)
+ <img src="https://github.com/ChrisCR27/Documentation-Coding/blob/b9bdf433e4c2150eb6ffb64956db5ca14df62c1a/Chicken%20Breast.jpg" width="600" height="400">
+
    * Rinse boneless chicken breasts with water and 1/2 cup vinegar.
    * Dice up the chicken into small portions.
    * Season the diced chicken with 1/2 teaspoon Tumeric, 3/4 teaspoon Garlic Powder, 1/4 teaspoon Black Pepper, 1/4 teaspoon Sea Salt, 1/4 teaspoon Paprika, and 1/4 teaspoon Curry Powder.
@@ -38,7 +39,8 @@
    * Dice up 1 Yellow Onion, 1 Portabella Mushroom, and 2 Roma tomatoes.
    * Add the diced onion, mushroom, and tomatoes to the chicken. Cook for about 15 minutes.
 2. ***Bowtie Pasta***
-![Bowties](https://github.com/ChrisCR27/Documentation-Coding/blob/b9bdf433e4c2150eb6ffb64956db5ca14df62c1a/Bowtiepasta.jpeg)
+<img src="https://github.com/ChrisCR27/Documentation-Coding/blob/b9bdf433e4c2150eb6ffb64956db5ca14df62c1a/Bowtiepasta.jpeg" width="600" height="600">
+
    * Boil water in a pot.
    * Add in the Bowtie Pasta. Put 1/2 teaspoon Olive Oil into the pot with the pasta
    * Cook until al dente. Drain.
