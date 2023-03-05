@@ -1,7 +1,7 @@
  # Chicken Alfredo
  
  ## Description
- A yummy Italian dish is Chicken Alfredo. It is my one of my favorite foods, and it can be eateb anytime. This Chicken Alfredo recipe has three major ingredients, which are braised chicken breast, bowtie pasta, and Alfredo Sauce. Other ingredients include various seasonings. I invite you to challenge your talent and tastebuds by trying it out!
+ A yummy Italian dish is Chicken Alfredo. It is my one of my favorite foods, and it can be eaten anytime. This Chicken Alfredo recipe has three major ingredients, which are chicken breast, bowtie pasta, and Alfredo Sauce. Other ingredients include various seasonings. I invite you to challenge your talent and tastebuds by trying it out!
  
  ## Preparation and Cooking Time:
  * 20 minutes prep time
@@ -11,14 +11,14 @@
  * Feeds 10 people/ 1 plate per person
  
  ## List of Ingredients with Accurate Measurements:
- * **5** Boneless, skinless Chicken Breasts
+ * **5** Boneless, Skinless Chicken Breasts
  * **1** Portabella Mushroom
  * **1** Yellow Onion
- * **2** Roma tomatoes
- * **5** packs of Bowtie Pasta
- * **5** 16oz. bottles of Alfredo Sauce(Ragu Brand)
+ * **2** Roma Tomatoes
+ * **5** Packs of Bowtie Pasta
+ * **5** 16oz. Bottles of Alfredo Sauce(Ragu Brand)
  * **2** tablespoons of Olive Oil
- * **1/2** cup Vinegar
+ * **1/2** Cup Vinegar
  * **1/2** teaspoon Tumeric
  * **3/4** teaspoon Garlic Powder
  * **1/4** teaspoon Black Pepper
@@ -26,22 +26,22 @@
  * **1/4** teaspoon Paprika
  * **1/4** teaspoon Curry Powder
 
-## Step-by-step Directions:
+## Step-by-Step Directions:
 1. ***Chicken***
-   * Rinse boneless chicken breasts with water and 1/2 cup vinegar
-   * Dice up the chicken into small portions
-   * Season the diced chicken with 1/2 teaspoon tumeric, 3/4 teaspoon garlic powder, 1/4 teaspoon black pepper, 1/4 teaspoon sea salt, 1/4 teaspoon paprika, and 1/4 teaspoon curry powder.
-   * Pour 2 table spoons olive oil into a pan and heat it up
-   * Cook the seasoned and diced chicken breast in the olive oil for about 20 minutes. Do not overcook
-   * Dice up 1 yellow onion, 1 Portabella mushroom, and 2 Roma tomatoes
+   * Rinse boneless chicken breasts with water and 1/2 cup vinegar.
+   * Dice up the chicken into small portions.
+   * Season the diced chicken with 1/2 teaspoon Tumeric, 3/4 teaspoon Garlic Powder, 1/4 teaspoon Black Pepper, 1/4 teaspoon Sea Salt, 1/4 teaspoon Paprika, and 1/4 teaspoon Curry Powder.
+   * Pour 2 tablespoons Olive Oil into a pan and heat it up.
+   * Cook the seasoned and diced chicken breast in the Olive Oil for about 20 minutes. Do not overcook.
+   * Dice up 1 Yellow Onion, 1 Portabella Mushroom, and 2 Roma tomatoes.
    * Add the diced onion, mushroom, and tomatoes to the chicken. Cook for about 15 minutes.
 2. ***Bowtie Pasta***
-   * Boil water in a pot
-   * Add in the bowtie pasta. Put 1/2 teaspoon olive oil into the pot with the pasta
+   * Boil water in a pot.
+   * Add in the Bowtie Pasta. Put 1/2 teaspoon Olive Oil into the pot with the pasta
    * Cook until al dente. Drain.
 3. ***Alfredo Sauce(Ragu Brand)***
-   * Open the 5 jars of Alfredo sauce. Pour into a large pot.
-   * Add in the braised chicken breasts and vegetables. Stir and bring to a boil.
+   * Open the 5 jars of Alfredo Sauce. Pour into a large pot.
+   * Add in the cooked chicken breasts and vegetables. Stir and bring to a boil.
 4. ***The Chicken Alfredo is ready to be served. This recipe can feed 10 persons.***
    * Place desired pasta amount on a plate. Add chicken breast with vegetables and pasta sauce. 
    * Enjoy! 
