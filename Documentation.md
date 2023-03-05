@@ -86,4 +86,4 @@ The nutritional facts provided are based on the ingredients that I used in this 
 * **Can the chicken be substituted for something else?** 
    * *Yes, shrimp can be used instead of chicken.*
 * **Where can I buy the main ingredients for this recipe?** 
-   * *You can shop for ingredients at local supermarkets such as Food Lion, Walmart, Lowe's Foods and so on.*
+   * *You can shop for ingredients at local supermarkets such as [Food Lion](https://www.foodlion.com/), [Walmart](https://www.walmart.com/), [Lowe's Foods](https://www.lowesfoods.com/), [Harris Teeter](https://www.harristeeter.com/), and so on.*
