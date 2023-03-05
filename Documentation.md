@@ -43,12 +43,13 @@
    * Add in the Bowtie Pasta. Put 1/2 teaspoon Olive Oil into the pot with the pasta
    * Cook until al dente. Drain.
 3. ***Alfredo Sauce(Ragu Brand)***
+<img src="https://github.com/ChrisCR27/Documentation-Coding/blob/b9bdf433e4c2150eb6ffb64956db5ca14df62c1a/ragu-16oz-cheese-classic-alfredo-sauce-495x495-1.jpg" width="350" height="400">
 
-![AlfredoSauce](https://github.com/ChrisCR27/Documentation-Coding/blob/b9bdf433e4c2150eb6ffb64956db5ca14df62c1a/ragu-16oz-cheese-classic-alfredo-sauce-495x495-1.jpg)
    * Open the 5 jars of Alfredo Sauce. Pour into a large pot.
    * Add in the cooked chicken breasts and vegetables. Stir and bring to a boil.
 4. ***The Chicken Alfredo is ready to be served. This recipe can feed 10 persons.***
-![pasta2.jpg](https://github.com/ChrisCR27/Documentation-Coding/blob/b9bdf433e4c2150eb6ffb64956db5ca14df62c1a/pasta2.jpg)
+<img src="https://github.com/ChrisCR27/Documentation-Coding/blob/b9bdf433e4c2150eb6ffb64956db5ca14df62c1a/pasta2.jpg" width="600" height="500">
+   
    * Place desired pasta amount on a plate. Add chicken breast with vegetables and pasta sauce. 
    * Enjoy! 
 
